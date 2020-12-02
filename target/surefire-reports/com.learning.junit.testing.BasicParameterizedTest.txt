@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learning.junit.testing.BasicParameterizedTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 0.13 s - in com.learning.junit.testing.BasicParameterizedTest

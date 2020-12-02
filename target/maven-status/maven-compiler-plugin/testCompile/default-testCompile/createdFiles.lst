@@ -1,0 +1,8 @@
+com\learning\junit\testing\BasicAssertions.class
+com\learning\junit\testing\BasicNestedTestClasses$InnerClass$InnerMostClass.class
+com\learning\junit\testing\BasicNestedTestClasses$InnerClass.class
+com\learning\junit\testing\BasicAssumptions.class
+com\learning\junit\testing\SampleTest.class
+com\learning\junit\testing\BasicAssertThrows.class
+com\learning\junit\testing\BasicNestedTestClasses.class
+com\learning\junit\testing\BasicRepeatedTest.class
