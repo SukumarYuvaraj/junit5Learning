@@ -4,7 +4,7 @@ package com.learning.junit.testing;
 public class MyUtils {
 
 	/**
-	 * Simple Util Class
+	 * Simple Utility Class
 	 * @param x
 	 * @param y
 	 * @return
