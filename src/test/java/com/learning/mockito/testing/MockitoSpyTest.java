@@ -68,6 +68,10 @@ class MockitoSpyTest {
 	}
 	
 	
+	/**
+	 * We can use Mockito Spy to partial mock an object. 
+	 * When we spy on an object, the real methods are being called unless it’s stubbed.
+	 */
 	@Test
 	void testAnnotationSpyObject()
 	{

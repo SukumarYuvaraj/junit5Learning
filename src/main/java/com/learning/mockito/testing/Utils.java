@@ -11,4 +11,9 @@ public class Utils{
 		System.out.println("Input Params = "+x+","+y);
 		return x+y;
 	}
+	
+	public String update(String s)
+	{
+		return s.toUpperCase();
+	}
 }
